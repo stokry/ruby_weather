@@ -1,2 +1,2 @@
-# ruby_weather
+# Ruby weather
 Simple Ruby weather program
